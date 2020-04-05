@@ -11,15 +11,14 @@ to play the game you will have to:
 4- enjoy!
 
 # Technology
-
 this project uses the following features:
-Multiple Scenes,
-Multiple Menus,
-Game Over logic,
-Triggers for animations,
-Raycasts,
-Navigation Mesh & AI for the monster,
-Looting logic,
-Uses the unity life cycles,
-Custom animations,
-Multiple cameras illusions.
+- Multiple Scenes,
+- Multiple Menus,
+- Game Over logic,
+- Triggers for animations,
+- Raycasts,
+- Navigation Mesh & AI for the monster,
+- Looting logic,
+- Uses the unity life cycles,
+- Custom animations,
+- Multiple cameras illusions.
